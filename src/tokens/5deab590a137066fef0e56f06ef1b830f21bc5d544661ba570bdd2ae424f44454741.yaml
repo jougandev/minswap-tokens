@@ -1,0 +1,15 @@
+project: Bodega
+
+categories:
+  - Prediction Markets
+
+decimals: 6
+
+socialLinks:
+  website: https://www.bodegacardano.org
+  twitter: https://x.com/bodegacardano
+  discord: https://discord.gg/zgvJpkWd
+
+verified: true
+
+maxSupply: 25000000
